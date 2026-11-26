@@ -1,0 +1,6 @@
+{
+  "name": "Asad CV Maker",
+  "description": "Modern split-screen Resume & CV Builder with live A4 preview, 3 ATS-friendly templates, custom accent colors, and one-click high-resolution PDF export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
